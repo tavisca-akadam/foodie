@@ -1,0 +1,15 @@
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\FoodieTestCase.deps.json
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\FoodieTestCase.runtimeconfig.json
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\FoodieTestCase.runtimeconfig.dev.json
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\obj\Debug\netcoreapp1.1\FoodieTestCase.csproj.CoreCompileInputs.cache
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\obj\Debug\netcoreapp1.1\FoodieTestCase.AssemblyInfo.cs
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\FoodieTestCase.dll
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\FoodieTestCase.pdb
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\Foodie.dll
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\bin\Debug\netcoreapp1.1\Foodie.pdb
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\obj\Debug\netcoreapp1.1\FoodieTestCase.csprojResolveAssemblyReference.cache
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\obj\Debug\netcoreapp1.1\FoodieTestCase.dll
+C:\Users\ankadam\source\repos\Foodie\FoodieTestCase\obj\Debug\netcoreapp1.1\FoodieTestCase.pdb
