@@ -1,0 +1,10 @@
+C:\Users\ankadam\source\repos\Foodie\Foodie\bin\Debug\netcoreapp1.1\Foodie.deps.json
+C:\Users\ankadam\source\repos\Foodie\Foodie\bin\Debug\netcoreapp1.1\Foodie.runtimeconfig.json
+C:\Users\ankadam\source\repos\Foodie\Foodie\bin\Debug\netcoreapp1.1\Foodie.runtimeconfig.dev.json
+C:\Users\ankadam\source\repos\Foodie\Foodie\bin\Debug\netcoreapp1.1\Foodie.dll
+C:\Users\ankadam\source\repos\Foodie\Foodie\bin\Debug\netcoreapp1.1\Foodie.pdb
+C:\Users\ankadam\source\repos\Foodie\Foodie\obj\Debug\netcoreapp1.1\Foodie.csprojResolveAssemblyReference.cache
+C:\Users\ankadam\source\repos\Foodie\Foodie\obj\Debug\netcoreapp1.1\Foodie.csproj.CoreCompileInputs.cache
+C:\Users\ankadam\source\repos\Foodie\Foodie\obj\Debug\netcoreapp1.1\Foodie.AssemblyInfo.cs
+C:\Users\ankadam\source\repos\Foodie\Foodie\obj\Debug\netcoreapp1.1\Foodie.dll
+C:\Users\ankadam\source\repos\Foodie\Foodie\obj\Debug\netcoreapp1.1\Foodie.pdb
